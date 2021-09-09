@@ -8,6 +8,8 @@ I’m a 3rd-year student pursuing a Bachelors’s in Information Technology , fr
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroma-sketch&label=Profile%20views&color=0e75b6&style=flat" alt="aroma-sketch" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aromagupta" target="blank"><img src="https://img.shields.io/twitter/follow/aromagupta?logo=twitter&style=for-the-badge" alt="aromagupta" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"/>
+<!-- <img height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
 
 
 - 🌱 I’m currently learning **frameworks**
